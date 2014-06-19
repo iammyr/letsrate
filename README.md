@@ -1,3 +1,10 @@
+# To use this forked version:
+
+Add in your Gemfile:
+
+gem "letsrate", :git => "git://github.com/iammyr/letsrate.git"
+
+
 # Letsrate Rating Gem
 
 Provides the best way to add rating capabilites to your Rails application with jQuery Raty plugin.
